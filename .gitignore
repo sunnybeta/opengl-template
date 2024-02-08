@@ -1,0 +1,8 @@
+# Objects
+*.o
+
+# Binaries
+bin/
+
+# LSP
+compile_flags.txt
